@@ -16,3 +16,18 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  text-transform: uppercase;
+}
+
+.field {
+  display: inline-flex;
+  flex-direction: column;
+  padding-right: 10px;
+  text-align: center;
+}
+
+.value {
+  font-size: 36px;
+}
